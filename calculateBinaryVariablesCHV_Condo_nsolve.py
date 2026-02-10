@@ -1,4 +1,3 @@
-# Author: Hassan Alam (Modified Kier von Konigslow Code)
 
 import os,sys,math,csv,matplotlib.pyplot as plt,numpy as npy
 from loadPhysicalConstants import *
